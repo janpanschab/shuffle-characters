@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "shuffle-characters",
+  "alias": "shuffle-characters",
+  "builds": [
+    {
+      "src": "next.config.js",
+      "use": "@now/next"
+    }
+  ]
+}

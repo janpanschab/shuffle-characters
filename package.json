@@ -1,0 +1,19 @@
+{
+  "name": "shuffle-characters",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Random charcters generator",
+  "main": "index.js",
+  "author": "Jan Panschab",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "dev": "next -p 4000",
+    "build": "next build",
+    "start": "next start"
+  }
+}
